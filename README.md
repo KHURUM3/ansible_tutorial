@@ -1,3 +1,3 @@
 # ansible_tutorial
 
-This is my awesome Ansoble repository!
+This is my awesome Ansible repository!
